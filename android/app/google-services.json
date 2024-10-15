@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318226051372",
+    "project_id": "proyectdriveme",
+    "storage_bucket": "proyectdriveme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318226051372:android:7be146b278e32cfe4c3c89",
+        "android_client_info": {
+          "package_name": "com.example.prueba_driveme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6LctaWMhKPQ4YO-Qx_tdY067w20MkQXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
